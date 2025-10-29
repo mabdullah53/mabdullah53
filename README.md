@@ -11,7 +11,7 @@
   <a href="https://github.com/mabdullah53">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/muhammad-abdullah-605889275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+   <a href="www.linkedin.com/in/m-abdullah-cs">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin Badge"/>
   </a>
 </div>
